@@ -26,8 +26,8 @@ Assignment 2 Group will be calculated by DMN Rules.
 
 Age                     | Group
 ----------------------: | -------
-Less than or Equals 45  | Lloyds
-Greater than 45         | Company
+Less than or Equals 45  | Company
+Greater than 45         | Lloyds
 
 
 
