@@ -11,10 +11,10 @@ There are two user tasks (Assignment 1 & Assignment 2) in this example.
 
 Assignment 1 Group will be calculated by DMN Rules.
 
-| Face Amount                 | Group		|
-| --------------------------: | ------- |
-| Less than or Equals 100000  | Lloyds  |
-| Greater than 100000         | Company |
+| Face Amount                 | Group		              |
+| --------------------------: | --------------------- |
+| Less than or Equals 100000  | treaty_lloyds_create  |
+| Greater than 100000         | treaty_company_create |
 
 
 ![Assignment1Team](images/Assignment1Team.png)<br />
@@ -26,8 +26,8 @@ Assignment 2 Group will be calculated by DMN Rules.
 
 Age                     | Group
 ----------------------: | -------
-Less than or Equals 45  | Company
-Greater than 45         | Lloyds
+Less than or Equals 45  | treaty_company_create
+Greater than 45         | treaty_lloyds_create
 
 
 
